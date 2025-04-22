@@ -1,0 +1,1 @@
+from fungsi import sigmoid as sigmoid
