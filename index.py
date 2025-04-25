@@ -75,3 +75,4 @@ for i,baris in data_frame.iterrows():
     label_tebakan = "nin" if tebakan == 1 else "Delvin"
 
     print(f"index {i} , tebakan : {label_tebakan} , kebenaran : {baris.label}")
+
